@@ -6,7 +6,7 @@ Student project - Soil Moisture Dynamics Forecasting Supported with Neural Netwo
 
 
 <div align="center">
-	<img width="500" height="350" src="plots/test_LSTM.png" alt="Awesome">
+	<img width="700" height="350" src="plots/test_LSTM.png" alt="Awesome">
 	<br>
 </div>
 
