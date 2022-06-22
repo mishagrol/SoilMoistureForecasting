@@ -4,6 +4,13 @@ Student project - Soil Moisture Dynamics Forecasting Supported with Neural Netwo
 
 > We used ERA5 weather reanalysis and LSTM for soil moisture forecast
 
+
+<div align="center">
+	<img width="500" height="350" src="plots/test_LSTM.png" alt="Awesome">
+	<br>
+</div>
+
+
 ## Requiremets 
 
 `pytorch-lightning`
